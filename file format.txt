@@ -1,0 +1,26 @@
+multimodal
+- AGV
+   - train
+     - 01
+       - json
+       - bin
+       - csv
+     - 14
+       - json
+       - bin
+       - csv
+   - val
+   - test
+
+- OHT
+   - train
+     - 01
+       - json
+       - bin
+       - csv
+     - 14
+       - json
+       - bin
+       - csv
+   - val
+   - test
