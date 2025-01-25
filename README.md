@@ -1,6 +1,7 @@
 # Multimodal_AI_2
 
 **1. 폴더명으로 나눔 (train(01~14)val(17~18)test(15~16))**
+
 폴더 구조
 - AGV
     - train(01~14)
@@ -26,6 +27,7 @@
 
 
 **2. 폴더자체나눔 (8:2:2)**
+
 폴더구조
 - AGV : 5개 train 1개 val 1개 test
     - train(01~18)
